@@ -30,7 +30,7 @@ python Main.py
 
 ## Outputs
 
-![]('Output/2.jpg')
+![]("Output/2.jpg")
 
 ![]('Output/3.jpg')
 
