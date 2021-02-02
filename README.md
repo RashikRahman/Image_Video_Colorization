@@ -30,22 +30,26 @@ python Main.py
 
 ## Outputs
 
+**Output from images**
+
+![](Output/6.jpg)
+
+![](Output/7.jpg)
+
 ![](Output/2.jpg)
 
-![]('Output/3.jpg')
+![](Output/3.jpg)
 
-![]('Output/5.jpg')
+![](Output/5.jpg)
 
-![]('Output/6.jpg')
+**Output from videos**
 
-![]('Output/7.jpg')
+![](Output/1.PNG)
 
-![]('Output/1.PNG')
+![](Output/2.PNG)
 
-![]('Output/2.PNG')
+![](Output/3.PNG)
 
-![]('Output/3.PNG')
+![](Output/4.PNG)
 
-![]('Output/4.PNG')
-
-![]('Output/5.PNG')
+![](Output/5.PNG)
